@@ -1,0 +1,30 @@
+# Compilação e Binários
+*.class
+*.jar
+*.war
+bin/
+build/
+target/
+
+# Configurações de IDEs
+.idea/
+*iml
+.vscode/
+.project
+.classpath
+.settings/
+
+# Logs e Sistema
+*.log
+.DS_Store
+Thumbs.db
+
+### NetBeans ###
+**/nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-mvn/
+nb-gradle/
+nbactions.xml
+nb-configuration.xml
